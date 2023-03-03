@@ -1,0 +1,275 @@
+
+main{
+    background-image: url(blue_bg.png);
+  
+    background-repeat: no-repeat;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    
+}
+nav .first{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
+nav .first p{
+    color: #AEBDC4;
+    margin-top: 40px;
+    
+}
+nav .first a{
+color:#AEBDC4 ;
+}
+nav .first a:hover{
+ border-bottom: #724395 2px solid;
+}
+nav .first img{
+    margin-top: 25px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav .sec button{
+    color:#AEBDC4;
+    padding: 5px 20px;
+    border-radius: 20px;
+    background-color: white;
+    margin: 30px;
+}
+.one{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.one .paragraph b{
+    color: #724395;
+    
+}
+.one .paragraph p{
+    color:#5E6D74 ;
+    font-size: 60px;
+    margin-top: 180px;
+   
+}
+.bigimg .rel{
+    position: relative;
+    left: 130px;
+
+}
+.smallimg .abs{
+    position: absolute;
+    right: 200px;
+    
+}
+.one .paragraph .difftyp{
+    font-size: 30px;
+    margin-top: 100px;
+}
+.paragraph img{
+    position: absolute;
+    left: 1000px;
+    z-index: -1;
+}
+.one .paragraph{
+    margin-left: 60px;
+    
+}
+section .h{
+    position: absolute;
+    top: 800px;
+}
+section .base{
+    position: relative;
+    top: 300px;
+    left: 300px;
+}
+.threepics{
+    display: flex;
+    justify-content: space-around;
+}
+.threepics .girl{
+    position: relative;
+    bottom: 160px;
+}
+.threepics .percent{
+    position: relative;
+    top: 280px;
+    right: 150px;
+    
+}
+.threepics h1{
+ position: relative;
+ bottom: 150px;
+ color: #9C9C9C;
+ font-size: 30px;
+}
+.threepics p{
+    position: relative;
+ bottom: 150px;
+ color: #9C9C9C;
+ font-size: 20px;
+ right: 30px;
+}
+.c h1{
+ position: relative;
+ top: 10px;
+}
+.c p{
+    position: relative;
+ top: 10px; 
+ right: 60px;
+}
+.cc h1{
+    position: relative;
+    top: 300px;
+    right: 100px;
+}
+.cc p{
+    position: relative;
+    top: 300px;
+    right: 200px;
+}
+div .why{
+    position: relative;
+    left: 70px;
+}
+.kus p{
+   position: relative;
+   bottom: 200px;
+   left: 150px;
+   color: #EEF8FE;
+   font-size: 20px;
+   
+}
+.kus h1{
+    position: relative;
+    bottom: 220px;
+    left: 135px;
+    color: #EEF8FE;
+    font-size: 38px;
+    
+ }
+ .end{
+    display: flex;
+    justify-content: space-around;
+ }
+ .end .k{
+    position: relative;
+    top: 250px;
+ }
+ .end .kk{
+    position: relative;
+    top: 300px;
+ }
+ .end .try{
+    position: relative;
+    top: 200px;
+    left: 560px;
+    color: #A7A7A7;
+ }
+ .end .try p{
+    padding-left: 15px;
+    font-size: 20px;
+   
+ }
+ footer .main-pic{
+   position: relative;
+   right: 70px;
+ 
+ }
+ footer .small-pic{
+    position: relative;
+    bottom: 570px;
+    left: 580px;
+ }
+ .ex{
+    border:  #FCFFFC 5px solid;
+    height: 40px;
+    background-image: url(apple.png);
+    background-repeat: no-repeat;
+    background-color: #FFFCFC;
+    position: relative;
+    bottom: 850px;
+    left: 100px;
+    width: 130px;
+    border-radius: 10%;
+   
+   
+ }
+ .ex p{
+    position: relative;
+    bottom: 5px;
+    left: 40px;
+    font-size: 10px;
+    color: #5758A8;
+ }
+ .ex h1{
+    font-size:15px ;
+    position: relative;
+    bottom:20px;
+    left: 35px;
+    color: #5758A8;
+    padding-top: 5px;
+ }
+ .exx{
+    border:  #FCFFFC 5px solid;
+    height: 40px;
+    background-image: url(play-store.png);
+    background-repeat: no-repeat;
+    background-color: #FFFCFC;
+    position: relative;
+    bottom: 900px;
+    left: 270px;
+    width: 130px;
+    border-radius: 10%;
+    padding-left: 2px;
+   
+ }
+ .exx p{
+    position: relative;
+    bottom: 5px;
+    left: 40px;
+    font-size: 10px;
+    color: #5758A8;
+ }
+ .exx h1{
+    font-size:12px ;
+    position: relative;
+    bottom:20px;
+    left: 35px;
+    color: #5758A8;
+    padding-top: 8px;
+ }
+.exx .three-pics{
+    position: relative;
+     right: 180px;
+     display: flex;
+     justify-content: space-around;
+}
+.four-words{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    position: relative;
+    bottom: 850px;
+    margin-left: 110px;
+    color: #FEFEFE;
+}
+.four-words a{
+    color: #FEFEFE;
+}
+.four-words a:hover{
+    border-bottom: #724395 2px solid;
+}
+
+.arrows .left-arrow{
+    position: relative;
+    left: 450px;
+    bottom: 180px;
+}
+.arrows .right-arrow{
+    position: relative;
+    left: 1000px;
+    bottom: 175px;
+}
